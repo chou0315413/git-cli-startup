@@ -13,3 +13,9 @@ Hello ~~markdown~~ 刪除線
 
 ---
 Hello `markdown`
+
+
+```
+markdown
+markdown
+```
